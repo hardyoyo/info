@@ -1,4 +1,4 @@
-# Aboout Hardy Pottinger
+# About Hardy Pottinger
 Hardy Pottinger, Digital Library Software Developer at UCLA Library
 
 twitter: [HardyPottinger](https://twitter.com/HardyPottinger)
